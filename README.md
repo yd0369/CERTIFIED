@@ -1,2 +1,2 @@
 # CERTIFIED
-Collection of Certificates and there information
+Collection of Certificates and their information
