@@ -87,3 +87,13 @@
     - Expiration Date: This certification does not expire
     - Credential ID: ZSVZ7SKHGG73
     - Credential URL: https://www.coursera.org/account/accomplishments/certificate/ZSVZ7SKHGG73
+
+### Getting Started with Data Analytics on AWS
+##### Amazon Web Services
+#### Grade Achieved: 100%
+    - Name: Getting Started with Data Analytics on AWS
+    - Issuing Organization: Coursera
+    - Issue Date: September 2022
+    - Expiration Date: This certification does not expire
+    - Credential ID: TZ62YCAHC2XE
+    - Credential URL: https://www.coursera.org/account/accomplishments/certificate/TZ62YCAHC2XE
