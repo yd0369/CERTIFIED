@@ -107,3 +107,13 @@
     - Expiration Date: This certification does not expire
     - Credential ID: N7GQEEVEVWCJ
     - Credential URL: https://www.coursera.org/account/accomplishments/certificate/N7GQEEVEVWCJ
+---
+### Getting Started with Kaggle
+##### Coursera Project Network
+#### Grade Achieved: 100%
+    - Name: Getting Started with Kaggle
+    - Issuing Organization: Coursera
+    - Issue Date: October 2022
+    - Expiration Date: This certification does not expire
+    - Credential ID: DR8BVDCGTFVY
+    - Credential URL: https://www.coursera.org/account/accomplishments/certificate/DR8BVDCGTFVY
